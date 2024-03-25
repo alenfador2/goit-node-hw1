@@ -46,8 +46,8 @@ async function removeContact(id) {
         console.log('Error: '.red, error.message);
       }
     });
-    console.table(contacts);
     console.log(`Contact with id: ${id} successfully removed!`.green);
+    console.table(updatedContacts);
   } catch (error) {
     console.log('Error: ', error.message);
   }
