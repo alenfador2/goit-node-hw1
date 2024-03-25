@@ -6,7 +6,7 @@
 <img src="https://monosnap.com/image/hAsdzlFv2WfIkJ38EmxX0uiAmv4Kqx"/></br>
 <h2>Usuwamy kontakt</h2>
 <p>polecenie: node index.js --action remove -i id kontaktu</p>
-<img src="https://monosnap.com/image/xCTo0e9KL5Tms2g0cHYyaMJ0Cy0iv6"/></br>
+<img src="https://monosnap.com/image/OzGHwdchdP9gCEp73UF8IVnk1EWHDw"/></br>
 <h2>Dodajemy kontakt</h2>
 <p>polecenie: node index.js --action add --name imię kontaktu --email email kontaktu --phone numer telefonu kontaktu</p>
 <img src="https://monosnap.com/image/x90H8rza21xNPtPfOh0qYiu4RLfOiN"/>
